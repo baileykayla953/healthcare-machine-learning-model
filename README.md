@@ -162,7 +162,7 @@ We created this model to measure the determination accuracy of the decision of i
 
 ### Conclusion: We found that majority of insurance denials, once appealed by an IMR, were overturned and therefore considered as converage that should be paid by an insurance company. This, in conclusion, eludes to large miscalculations the by health insurance industry across the State of Califoria. With a simple set of machine learning models (like the ones we have developed), companies can quickly and effectively reduce the number of coverage denials they will have issued destined to be overturned, thus saving them the significant cost of litigation and additional payments to urgentcare facilities. This, we believe, is a business strategy worth implementing immediately to save money on the bottom line and provide more coverage to its customers.
 
-### Presentation:[Analysis Presentation](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FPhil-Mart%2Fhealthcare-machine-learning-model%2Fmain%2FIMR%2520Analysis%2520and%2520Presentation%2FProject%25204_Medical%2520Necessity%2520Modeling_Draft%2520(1).pptx&wdOrigin=BROWSELINK)
+### Presentation:[Analysis Presentation](https://docs.google.com/presentation/d/1WFbteX6ApynYJe-QSTuQRjewO7j6qurs/edit?usp=sharing&ouid=100163998019227497445&rtpof=true&sd=true)
 
 Our orignal question for this dataset was asking "Why does it feel like Urgent Cares are popping up everywhere?" With this dataset, We can see Urgent Cares are more affordable than Hospitals. This data shows more cost effectiveness as we can see an overwhelming amount of data showing how often care is not considered a medical necessity and will require an additional payment. 
 Why are Urgent Cares Popping Up Everywhere? 
